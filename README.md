@@ -16,7 +16,7 @@ Since the predictive tools could not isolate the effect of air pollution, we swi
 Regular_Time_Series/CDC_COPD-Redone.ipynb,Regular_Time_Series/CDC_COPD-Redone.ipynb
 We carry out predictive modeling using a regular time series as opposed to a moving eight year average.
 
-Follow my process [Here](https://github.com/jitsen-design/Air_Pollution_and_Disease/blob/master/A_Particulate_Problem_Jit_Seneviratne.pdf)
+![Follow my process here](https://github.com/jitsen-design/Air_Pollution_and_Disease/blob/master/A_Particulate_Problem_Jit_Seneviratne.pdf)
 
 
 
