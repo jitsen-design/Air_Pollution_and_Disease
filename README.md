@@ -15,7 +15,7 @@ These notebooks predict the death counts for each disease using the Poisson GLM,
 [CDC_COPD-Propensity.ipynb](https://github.com/jitsen-design/Air_Pollution_and_Disease/blob/master/CDC_COPD-Propensity.ipynb), [CDC_IHD-Propensity.ipynb](https://github.com/jitsen-design/Air_Pollution_and_Disease/blob/master/CDC_IHD-Propensity.ipynb)
 Since the predictive tools could not isolate the effect of air pollution, we switch to a propensity matching technique in order to isolate the effect of air pollution. We split counties into 'high' pollution and 'low' pullution groups and compare mean difference in deaths between pairs from each group (one from each). Pairs were selected according to similarities in their propensity scores. Air pollution showed up as significant for COPD, but not for IHD.
 
-Regular_Time_Series/CDC_COPD-Redone.ipynb,Regular_Time_Series/CDC_COPD-Redone.ipynb
+[Regular_Time_Series/CDC_COPD-Redone.ipynb](https://github.com/jitsen-design/Air_Pollution_and_Disease/blob/master/Regular_Time_Series/CDC_COPD-Redone.ipynb),[Regular_Time_Series/CDC_COPD-Redone.ipynb](https://github.com/jitsen-design/Air_Pollution_and_Disease/blob/master/Regular_Time_Series/CDC_IHD-Redone.ipynb)
 We carry out predictive modeling using a regular time series as opposed to a moving eight year average.
 
 
